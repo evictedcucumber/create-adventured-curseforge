@@ -242,7 +242,7 @@ hash = "abd4ef6c0555a5d9a1b659b4dd5e4b52edf6ec957ff6087676f84fb96638b253"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "eb86da96b874000e04db60066642fd6f969d2e103ad1325a48a0c5ad1b7d72d1"
+hash = "de77f5611a5c79200028a6b4569bb3f9f7778c11757b6889b7898ea1930c96b5"
 
 [[files]]
 file = "mods/addonslib.pw.toml"
@@ -327,6 +327,11 @@ metafile = true
 [[files]]
 file = "mods/better-compatibility-checker.pw.toml"
 hash = "55fe1f1a0b72abf4b697b3e0d8f5449e590bb519d26a29e6eeac049161003a34"
+metafile = true
+
+[[files]]
+file = "mods/biolith.pw.toml"
+hash = "6e60967fb94f0f8607281e1b00a4bc98f93958937f92f25bb77982d79e98ca5c"
 metafile = true
 
 [[files]]
