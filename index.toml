@@ -1405,6 +1405,11 @@ hash = "15c30a404bc24e1806a780ae83e5a7364d04fac86e2ec448a1a44342935ef0da"
 metafile = true
 
 [[files]]
+file = "resourcepacks/comforts-modernized.pw.toml"
+hash = "4174ff254d053615e70fad47e0f2844deb1076d7b699491e16224006b7ee5f34"
+metafile = true
+
+[[files]]
 file = "resourcepacks/create-lootr.pw.toml"
 hash = "6774d90dd525b77c08814f8cdeaaa5fdf2d4dc265d45c9a7a3bfcd2da2494981"
 metafile = true
