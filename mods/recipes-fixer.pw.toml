@@ -1,0 +1,13 @@
+name = "Recipes Fixer"
+filename = "recipefixer-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dc6be3f1ecc5c7dbaae646623e5f63a42aa16047"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6833437
+project-id = 1317381
