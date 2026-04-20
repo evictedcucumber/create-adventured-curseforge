@@ -3,11 +3,12 @@ author = "evictedcucumber"
 version = "1.0.0"
 recommended-ram = "8192"
 pack-format = "packwiz:1.1.0"
+platform = "curseforge"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4be3e9955f95fa21bf1420b8fc51505392c3813daa0206e3188327048d4265d4"
+hash = "b8ab3f8b060dfe75b2ac5c3d0cad27409a492b5e090a86f6831d1ebb17da5884"
 
 [versions]
 minecraft = "1.21.1"
