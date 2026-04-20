@@ -1,0 +1,13 @@
+name = "[ESF] Entity Sound Features"
+filename = "entity_sound_features_1.21-neoforge-0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "be429d9e8761d7ff50f654a90194b8caccd19623"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7933712
+project-id = 1060324

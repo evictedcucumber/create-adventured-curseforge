@@ -5,5 +5,254 @@ file = "Makefile"
 hash = "159a1d0cafde6cc45addf88342d565e4a10c6f8db4eefb0d05c7d22589f42d2e"
 
 [[files]]
+file = "configureddefaults/config/create-client.toml"
+hash = "cbaebde712280022931f9eab1aa4b73a50a64eab39c3d5b39d8a7c24d401effd"
+
+[[files]]
+file = "configureddefaults/config/create-common.toml"
+hash = "2e77b1d93b40ce3f381ad7eb2a9e6d7148de917518be5c2616939a4369c4b140"
+
+[[files]]
+file = "configureddefaults/config/create-server.toml"
+hash = "d063982581108b8c7ed6c670c4f4a302abe39be7bfeb565de96b8d9d880426cd"
+
+[[files]]
+file = "configureddefaults/config/flywheel-client.toml"
+hash = "9b9525f6baadc8312819ae21ad8688b20fb887e0e2bec4bceece4cbb296196b8"
+
+[[files]]
+file = "configureddefaults/config/fml.toml"
+hash = "1ac1fd9694773ef1ec8af42c9cc8a908a1b618fa6fb6031c27305383e97f70c7"
+
+[[files]]
+file = "configureddefaults/config/iris-excluded.json"
+hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
+
+[[files]]
+file = "configureddefaults/config/iris.properties"
+hash = "f7780067be25b4692b060393c47525959fd90f8fa1c24610281a82bcd37b45e8"
+
+[[files]]
+file = "configureddefaults/config/irisflw-client.toml"
+hash = "e3998cb0f9acbc3e5654e86194dbdeb5c86276da645b977f71a5f9954322b7f6"
+
+[[files]]
+file = "configureddefaults/config/lootr-client.toml"
+hash = "4da5bc00c2cc7db774e16f6905929303bfca802367d49133ba9742a6330238ad"
+
+[[files]]
+file = "configureddefaults/config/lootr-common.toml"
+hash = "cb848383f0abff383a96a6cbf59bb91135cce38cb71711f3ffe5baca20fabf9a"
+
+[[files]]
+file = "configureddefaults/config/neoforge-client.toml"
+hash = "0330146d0a94cf5aac3a2d819ca1f788f54950d9cb35e8127a3810ecf201cfd5"
+
+[[files]]
+file = "configureddefaults/config/neoforge-common.toml"
+hash = "724b9f78fe26360fcdc7089cc67a47cee6b96ea69d4ca42613f84b33e31e6986"
+
+[[files]]
+file = "configureddefaults/config/neoforge-server.toml"
+hash = "b1e3b38d612295f8d9dfa0fbdb538a992b7a1a3b7a766c491b4e9fdf3823396f"
+
+[[files]]
+file = "configureddefaults/config/ponder-client.toml"
+hash = "f7892742494899f3d7169cbefd1969c7030f1555bfc277e0a0a8fc6b9160b053"
+
+[[files]]
+file = "configureddefaults/config/sodium-fingerprint.json"
+hash = "8d3443b7a5172375ab9c9148ca4d7ea83264f94b5ad095b1ab25dbbd6117cdd7"
+
+[[files]]
+file = "configureddefaults/config/sodium-mixins.properties"
+hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
+
+[[files]]
+file = "configureddefaults/config/sodium-options.json"
+hash = "445a55bccce87dd8467f3265d1572827e8778e873e3bb70290adf0bb8a811e96"
+
+[[files]]
+file = "configureddefaults/config/sophisticatedbackpacks-common.toml"
+hash = "390cb983090cdc5ba9013c0551fcde8ecf579040f970e33de5ecfc500841cb7f"
+
+[[files]]
+file = "configureddefaults/config/sophisticatedbackpacks-server.toml"
+hash = "dea5ba0fe45846e367b8cf77277bb4484089da699c43759a90d37486263a30bc"
+
+[[files]]
+file = "configureddefaults/config/sophisticatedcore-client.toml"
+hash = "12f65a872b73c931b0a192d7e95c7d89f7ef7f1fd33f3ee7ff6bbda12fb8845f"
+
+[[files]]
+file = "configureddefaults/config/sophisticatedcore-common.toml"
+hash = "450dcd187b54b7fda10824923ba7194e9af48d8df83e8650f1f00e0cc34a6617"
+
+[[files]]
 file = "configureddefaults/options.txt"
-hash = "de77f5611a5c79200028a6b4569bb3f9f7778c11757b6889b7898ea1930c96b5"
+hash = "8748be66c874a15e5d8f4e3701369aadb13a6e1d7611010d9d4afe11535530aa"
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "779974fc6c7b273a38bd93a26c21c2b8f5e06384516ad8ba29b6bf5fe18514cd"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "e556e952eb3f18a5e813b426bb1d1ffea5244d9ce9e9f5cd997916ec69815a34"
+metafile = true
+
+[[files]]
+file = "mods/entity-texture-features-fabric.pw.toml"
+hash = "298f2a99e309853181e71938c2358c4b2c7c6c19137dcf6bcefb736d43ab6f65"
+metafile = true
+
+[[files]]
+file = "mods/esf-entity-sound-features.pw.toml"
+hash = "60a6668e30b887b1632ad06409997654d0b2f49adcf3c3e6041f2cc9c53dc7cb"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "6a2693aaab21ce7c32b958b81ee5e9cad0d014cdf68c067049b2fc652159d9d1"
+metafile = true
+
+[[files]]
+file = "mods/iris-flywheel-compat.pw.toml"
+hash = "b98725e179130ce579c3798919080fb5105b41abb3b4fb6d3280f2310e64b62f"
+metafile = true
+
+[[files]]
+file = "mods/irisshaders.pw.toml"
+hash = "352bbd56bffa7bb7af6e16ae0e745db85e2d7e9e0ea6037ff866149f6e6e08b8"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "651772c295e73ac60d5efd546dfa3bfa2263330cbb9db45eec9435ef8696b94b"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "e08301069fb769d4cdf8aff75d7533126c80bfdfa682f09ba9ae98040ee725eb"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks-create-integration.pw.toml"
+hash = "c966ea02eb59f31dcaeaebe9d96c9b232a2fb16d2fe971729350e567a4ff1bd7"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "2005910c6e285434a7805a7b93c6c1a125594382f8e542711f2fc655ba1209d6"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "36f797c137ff0a6b652d308a37a07bab9eac036be65c6aae0116174e62740097"
+metafile = true
+
+[[files]]
+file = "resourcepacks/comforts-modernized.pw.toml"
+hash = "4174ff254d053615e70fad47e0f2844deb1076d7b699491e16224006b7ee5f34"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-lootr.pw.toml"
+hash = "5736ae114ce1c28bf4b03cf8228277758c08be8bbb2caa7d0977c9b1020603bc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-sophisticated-backpacks.pw.toml"
+hash = "6d6b7da245ca52c3dcfa20907de5934af51634f07319c3072b26a7f9971e1738"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-extensions.pw.toml"
+hash = "633345333ff363fd71d17faa2bb39be6c3b1041bb1c5fdcc616827d2221c152f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "da66421a2a0dcab59fc4b17705b0aae4cd88b20634ebea20b0224fee2bef8251"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-moves.pw.toml"
+hash = "d22bff8a4ecb807d779784716ad315466778d0457b0d734eeeb6ff7f5a296a3f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fusion-3d-items.pw.toml"
+hash = "e43f0b9e7ac02b779d36594c526fe330fbc64ddd10c0c1896f922acd9a0766b0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fusion-block-transitions.pw.toml"
+hash = "29e7e41a66e1c26606f33d59912139cd534ab14ef2c70bbba1da81702716422e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fusion-connected-blocks.pw.toml"
+hash = "b5395a87ff650ccd9253568779f85deebf8186645219d4c6461f78645f03f0bd"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fusion-connected-glass.pw.toml"
+hash = "9558758e85c4d4e25da6c62d2381e24de2794f1307136ee9b4be98ed32baf6ad"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fusion-emissive-ores.pw.toml"
+hash = "034b0be4433c1a410237bfc455542a217f4f3389014b5c06704f6bb6b9b2ad54"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fusion-stacking-items.pw.toml"
+hash = "0f29b597c6bbd952546109cc1ce4f5bdc09cef9c4ca9ad056e70c8705a750a40"
+metafile = true
+
+[[files]]
+file = "resourcepacks/icons.pw.toml"
+hash = "a797e8204086fdc092781d0cc1e224c47dcb1f895123157cb1d83d00a10f5d3c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mandalas-gui-add-ons.pw.toml"
+hash = "0eee40180a90d6616be68d87236b3ce7eda3ed1c747615356fc65b2681981c29"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
+hash = "c3c618df6fa8e9f4b8de628c050cde77fec5fac7778a38ac94b28f42183e3a2a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/soft-weather.pw.toml"
+hash = "a76052f76e4eeb7f6114f3bad62fc1e967b8f39425bfb1e369c2ead7d56519b0"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bliss-shader.pw.toml"
+hash = "f27ca42de7b92a90cf387dbed38bbdb33013201a7cf5b2723a9830b3120634e0"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "4a5ea44fb3e87c430dbb19df9587ec93bd189ea1a12a15ed190dde3cf5a5cf13"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "753adc976b00bdb2f4e060e18700d778d0938c76805c46747acccb139fdc7025"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "2267df77006981ef26af0c5cc4795f80a8c63d1032b8fe2456c735dd9b0a7338"
+metafile = true
