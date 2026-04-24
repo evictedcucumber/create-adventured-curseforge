@@ -8,7 +8,7 @@ platform = "curseforge"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5adae5f885cfe6b5758f8380bc20e522036f0aaadcba4507ea7fe63bf9f27eae"
+hash = "a47fa4a3bd7488601b46cbaa48d5f7968f5e3dabfb1419c589641c24f0a05079"
 
 [versions]
 minecraft = "1.21.1"
