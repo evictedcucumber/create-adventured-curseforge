@@ -3,7 +3,6 @@ author = "evictedcucumber"
 version = "1.0.0"
 recommended-ram = "8192"
 pack-format = "packwiz:1.1.0"
-platform = "curseforge"
 
 [index]
 file = "index.toml"
